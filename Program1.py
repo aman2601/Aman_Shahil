@@ -15,5 +15,6 @@ class Calculator:
         else:
             return "Invalid operation"
 
-calc = Calculator(10, 5)
-print(calc.calculate('add'))
+calc = Calculator(1546, 4587)
+print(calc.calculate('multiply'))
+
